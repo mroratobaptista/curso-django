@@ -1,6 +1,6 @@
 language: python
 python:
-  - 3.85
+  - 3.8
 
 env:
   global:
